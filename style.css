@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+.inc {
+    padding: 10px;
+    margin: 10px;
+}
+.dec {
+    padding: 10px;
+    margin: 10px;
+}
+.reset {
+    padding: 10px;
+    margin: 10px;
+}
